@@ -16,7 +16,6 @@ if i == "нап":
     tim = tim * 60 #минутки
     time.sleep(tim)
     print("Прошло:",tim, "секунд -", f)
-
 elif i == "сек":
     tim = 0
     while tim > -1:
